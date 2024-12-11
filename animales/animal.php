@@ -8,6 +8,9 @@ abstract class Animal {
         $this->name = $name;
     }
 
+    public function sonar(): string {
+    }
+
 }
 
 ?>
